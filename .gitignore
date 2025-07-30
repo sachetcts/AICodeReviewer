@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/VibeCodeReviewer/bin/Debug/net9.0
+/VibeCodeReviewer/obj
+/.vs
